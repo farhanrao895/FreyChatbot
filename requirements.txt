@@ -7,4 +7,7 @@ chromadb
 faiss-cpu
 langchain_google_genai
 langchain_community
-
+PyMuPDF
+PyPDF2
+pdf2image
+pytesseract
